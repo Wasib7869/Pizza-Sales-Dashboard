@@ -61,4 +61,4 @@ Inventory management for demand forecasting by size and type
 
 Business managers to monitor revenue performance and strategize accordingly
 
-Screenshot:
+Screenshot:https://github.com/Wasib7869/Pizza-Sales-Dashboard/blob/main/Screenshot%202025-07-20%20151011.png
